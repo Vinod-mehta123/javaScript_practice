@@ -1,0 +1,6 @@
+const account_Number = 1223445
+let account_Name = "Vinod Mehta"
+var acc_Password = "23432"
+let acc_City = "Bageshwar"
+
+console.table([account_Number, account_Name, acc_Password, acc_City]);
