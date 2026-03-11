@@ -1,0 +1,16 @@
+const array = ["Hulk", "ShaktiMan", "Captain America", "Thor"];
+console.log(array);
+
+let my_obj = {
+    name : "Vinod Mehta",
+    age : 19,
+    address : "Bageshwar"
+};
+
+console.log(my_obj);
+
+const my_function = function(){
+    console.log("Hello World");
+} 
+
+my_function();
