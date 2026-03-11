@@ -14,3 +14,7 @@ const my_function = function(){
 } 
 
 my_function();
+
+console.log(typeof my_function);
+console.log(typeof array);
+console.log(typeof my_obj);
